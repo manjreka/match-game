@@ -1,0 +1,22 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2c0e3a;
+  max-height: 15vh;
+  color: white;
+  padding: 15px;
+}
+
+.header-image {
+  max-width: 15vw;
+}
+
+.header-content {
+  display: flex;
+}
+.header-icon {
+  max-width: 5vw;
+  max-height: 5vh;
+  align-self: center;
+}
